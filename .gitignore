@@ -7,3 +7,7 @@ DAC-016_Internal_Projects
 additional/
 DAC-006_Machine_Learning/datasets/*.csv
 .venv/
+<<<<<<< HEAD
+=======
+DAC-007_Web_Scraping/*Master*
+>>>>>>> d7903f8ab67675c4fd3265cf5f74bb889be02950
